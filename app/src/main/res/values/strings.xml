@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bluengin7</string>
+    <string name="action_settings">Settings</string>
+    <string name="Text">Durum: -</string>
+    <string name="on">Aç</string>
+    <string name="off">Kapat</string>
+    <string name="List">Tanımlı Cihazlar</string>
+    <string name="Find">Yeni Cihaz Ara / Vazgeç</string>
+</resources>
